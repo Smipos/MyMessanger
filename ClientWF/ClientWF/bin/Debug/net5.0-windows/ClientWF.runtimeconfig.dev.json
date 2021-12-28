@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\smipo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\smipo\\.nuget\\packages"
+    ]
+  }
+}

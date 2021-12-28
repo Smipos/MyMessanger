@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yqp/bxTjIzRsDPuYdLT0RyVF6IvhArBjbfsKWCt81uEPD6VujwYkxetwokVw8ujAc5HLdtIZpq7SbWn4owsCfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smipo\\Desktop\\kurs_BISO2021-master\\ClassLib\\ClassLib\\ClassLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smipo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
